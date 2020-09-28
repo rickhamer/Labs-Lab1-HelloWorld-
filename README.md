@@ -1,0 +1,3 @@
+# Hamer-Richard
+
+Hello Github!
